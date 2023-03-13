@@ -6,7 +6,7 @@ This repository includes the **Genetically Informed brAiN Ttlas (GIANT)** with i
 
 We introduce GIANT, a genetically informed brain atlas. Our 3D clustering algorithm was applied separately to gray matter and white matter, and the best-tuned brain parcellations were integrated to define GIANT.  Our annotation results divided GIANT into 7 anatomical sub-structures: cerebellum (**A**), deep gray matter and white matter structure (**B**), frontal structure (**C** and **D**), occipital structure (**F**), parietal structure (**G**), temporal structure (**H**), and others (**E**).  
 
-The NIFTI for GIANT and its specifications:
+The NIFTI for GIANT and its specifications: https://github.com/JingxuanBao/GIANT/tree/main/GIANT
 
 <p>
 	<img src="figures/Annotation_1_8.png" width="864">
@@ -24,7 +24,7 @@ The voxel-level heritability estiamtes for UK Biobank (UKBB): https://github.com
 
 The voxel-level heritability estimates for Alzheimer's disease neuroimaging initiative (ADNI): https://github.com/JingxuanBao/GIANT/tree/main/example_data/voxel_heritability_ADNI
 
-## Regional-level heritability estimations
+## Regional-level heritability estimates for GIANT
 
 box folder link
 
