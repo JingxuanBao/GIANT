@@ -26,9 +26,9 @@ The voxel-level heritability estimates for Alzheimer's disease neuroimaging init
 
 ## Regional-level heritability estimates for GIANT
 
-box folder link
+The regional-level heritability estimates for UKBB and ADNI using GIANT brian parcellation: https://github.com/JingxuanBao/GIANT/tree/main/GIANT/GIANT_regional_heritability
 
-### Genome-wide association study summary statistics
+## Genome-wide association study summary statistics
 
 box folder link
 
