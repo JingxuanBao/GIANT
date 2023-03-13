@@ -16,6 +16,12 @@ We propose a 3D heritability-aware brain parcellation model that integrates voxe
 
 You may find the implementation and example [HERE](https://github.com/JingxuanBao/GIANT/blob/main/scripts/Her_Atlas.py)
 
+## Voxel-level heritability estimates
+
+The voxel-level heritability estiamtes for UK Biobank (UKBB):
+
+The voxel-level heritability estimates for Alzheimer's disease neuroimaging initiative (ADNI):
+
 ### Regional-level heritability estimations
 
 box folder link
