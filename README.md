@@ -30,7 +30,9 @@ The regional-level heritability estimates for UKBB and ADNI using GIANT brian pa
 
 ## Genome-wide association study summary statistics
 
-box folder link
+Genome builder: GRCh37
+
+
 
 ### Polygenetic risk scores
 
