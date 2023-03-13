@@ -2,7 +2,7 @@
 
 This repository includes the **Genetically Informed brAiN Ttlas (GIANT)** with its implementation, and all imaging-genetics subsequent analysis summary statistics for the GIANT. 
 
-## Heritability-aware brain atlas
+## GIANT - A genetically informed brain atlas
 
 We introduce GIANT, a genetically informed brain atlas. Our 3D clustering algorithm was applied separately to gray matter and white matter, and the best-tuned brain parcellations were integrated to define GIANT.  Our annotation results divided GIANT into 7 anatomical sub-structures: cerebellum (**A**), deep gray matter and white matter structure (**B**), frontal structure (**C** and **D**), occipital structure (**F**), parietal structure (**G**), temporal structure (**H**), and others (**E**).  
 
