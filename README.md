@@ -10,11 +10,11 @@ We introduce GIANT, a genetically informed brain atlas. Our 3D clustering algori
 	<img src="figures/Annotation_1_8.png" width="864">
 </p>
 
-## Heritability-aware brain atlas implementation
+## 3D heritability-aware brain parcellation model
 
-to be completed
+We propose a 3D heritability-aware brain parcellation model that integrates voxel-wise heritability and spatial proximity to cluster brain voxels into genetically informed regions.
 
-
+You may find the implementation and example [HERE](https://github.com/JingxuanBao/GIANT/blob/main/scripts/Her_Atlas.py)
 
 ### Regional-level heritability estimations
 
