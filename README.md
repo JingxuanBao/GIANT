@@ -2,7 +2,8 @@
 
 This repository includes the **Genetically Informed brAiN Ttlas (GIANT)** with its implementation, and all imaging-genetics subsequent analysis summary statistics for the GIANT. 
 
-[Shenlab@Penn](https://github.com/PennShenLab)
+[ShenLab@Penn](https://www.med.upenn.edu/shenlab/)
+[LongLab@Penn](https://www.med.upenn.edu/long-lab/)
 
 ## GIANT - A genetically informed brain atlas
 
