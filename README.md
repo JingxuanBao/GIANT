@@ -1,7 +1,9 @@
 # Genetically informed brain atlas (GIANT) for enhancing neuroimaging genetics studies
 
 ```diff
-@@ IMPORTANT UPDATE: We are currently working on addressing the comments received from the reviewers. We will release the updated scripts and results shortly! @@
+- IMPORTANT UPDATE
+@@ We are currently working on addressing the comments received from the reviewers. @@
+! We will release the updated scripts and results shortly!
 ```
 
 This repository includes the **Genetically Informed brAiN Ttlas (GIANT)** with its implementation, and all imaging-genetics subsequent analysis summary statistics for the GIANT. 
