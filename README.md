@@ -1,8 +1,8 @@
 # Genetically informed brain atlas (GIANT) for enhancing neuroimaging genetics studies
 
 ```diff
-- IMPORTANT UPDATE
-@@ We are currently working on addressing the comments received from the reviewers. @@
+@@ IMPORTANT UPDATE @@
+! We are currently working on addressing the comments received from the reviewers. 
 ! We will release the updated scripts and results shortly!
 ```
 
