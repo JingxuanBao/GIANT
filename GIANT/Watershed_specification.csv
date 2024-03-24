@@ -1,0 +1,101 @@
+INDEX,NAME,GROUP,GROUP_UNIQ
+1,67 Right Calc  calcarine cortex + 33 Left Calc  calcarine cortex,100 OCCIPITAL,OCCIPITAL
+2,16 Right Cerebellum Exterior + 8 Right FuG   fusiform gyrus + 12 Right IOG   inferior occipital gyrus + 25 Right ITG   inferior temporal gyrus + 27 Right MTG   middle temporal gyrus + 7 Right STG   superior temporal gyrus,16 CEREBELLUM + 12 OCCIPITAL + 67 TEMPORAL,TEMPORAL
+3,67 Right CO    central operculum + 10 Right PIns  posterior insula + 6 Right PO    parietal operculum + 16 Right TTG   transverse temporal gyrus,83 FRONTAL + 16 TEMPORAL,FRONTAL
+4,7 Right AnG   angular gyrus + 18 Right MFG   middle frontal gyrus + 15 Right PoG   postcentral gyrus + 16 Right PrG   precentral gyrus + 20 Right SFG   superior frontal gyrus + 9 Right SMG   supramarginal gyrus + 12 Right SPL   superior parietal lobule,54 FRONTAL + 43 PARIETAL,FRONTAL
+5,74 Right Cerebellum Exterior + 21 Right FuG   fusiform gyrus + 6 Right ITG   inferior temporal gyrus,74 CEREBELLUM + 27 TEMPORAL,CEREBELLUM
+6,9 Right Hippocampus + 6 Right Ent   entorhinal area + 8 Right FuG   fusiform gyrus + 16 Right ITG   inferior temporal gyrus + 18 Right MTG   middle temporal gyrus + 7 Right PHG   parahippocampal gyrus + 7 Right STG   superior temporal gyrus + 19 Right TMP   temporal pole,9 DEEP_WM_GM + 13 LIMBIC + 68 TEMPORAL,TEMPORAL
+7,17 Right AIns  anterior insula + 47 Right PIns  posterior insula + 16 Right PP    planum polare + 19 Right TTG   transverse temporal gyrus,64 FRONTAL + 35 TEMPORAL,FRONTAL
+8,10 Right MFG   middle frontal gyrus + 5 Right PrG   precentral gyrus,15 FRONTAL,FRONTAL
+9,18 Right AIns  anterior insula + 35 Right CO    central operculum + 37 Right PIns  posterior insula + 10 Right TTG   transverse temporal gyrus,90 FRONTAL + 10 TEMPORAL,FRONTAL
+10,27 Right MOrG  medial orbital gyrus + 35 Right POrG  posterior orbital gyrus + 36 Right TMP   temporal pole,62 FRONTAL + 36 TEMPORAL,FRONTAL
+11,97 Right Cerebellum Exterior,97 CEREBELLUM,CEREBELLUM
+12,86 Right Cerebellum Exterior + 13 Right OFuG  occipital fusiform gyrus,86 CEREBELLUM + 13 OCCIPITAL,CEREBELLUM
+13,100 Right Cerebellum Exterior,100 CEREBELLUM,CEREBELLUM
+14,41 Right Cerebellum Exterior + 9 Left Cerebellum Exterior + 13 Cerebellar Vermal Lobules I-V + 10 Right FuG   fusiform gyrus + 10 Right LiG   lingual gyrus + 6 Right PHG   parahippocampal gyrus + 5 Left PHG   parahippocampal gyrus,63 CEREBELLUM + 11 LIMBIC + 10 OCCIPITAL + 10 TEMPORAL,CEREBELLUM
+15,28 Right Caudate + 65 Right Thalamus Proper,93 DEEP_WM_GM,DEEP_WM_GM
+16,90 Right Cerebellum Exterior + 9 Cerebellar Vermal Lobules VIII-X,99 CEREBELLUM,CEREBELLUM
+17,17 Right MPoG  postcentral gyrus medial segment + 22 Right MPrG  precentral gyrus medial segment + 30 Right PoG   postcentral gyrus + 21 Right PrG   precentral gyrus,43 FRONTAL + 47 PARIETAL,PARIETAL
+18,14 Right Calc  calcarine cortex + 9 Right Cun   cuneus + 10 Left Cun   cuneus + 6 Right LiG   lingual gyrus + 6 Right PCgG  posterior cingulate gyrus + 23 Right PCu   precuneus + 22 Left PCu   precuneus,6 LIMBIC + 39 OCCIPITAL + 45 PARIETAL,PARIETAL
+19,13 Right MCgG  middle cingulate gyrus + 31 Right MSFG  superior frontal gyrus medial segment + 13 Right SFG   superior frontal gyrus + 33 Right SMC   supplementary motor cortex + 6 Left SMC   supplementary motor cortex,83 FRONTAL + 13 LIMBIC,FRONTAL
+20,16 Right Cerebellum Exterior + 84 Cerebellar Vermal Lobules VIII-X,100 CEREBELLUM,CEREBELLUM
+21,11 Right Cerebellum Exterior + 12 Left Calc  calcarine cortex + 5 Right IOG   inferior occipital gyrus + 24 Right LiG   lingual gyrus + 15 Left LiG   lingual gyrus + 9 Right OFuG  occipital fusiform gyrus,11 CEREBELLUM + 65 OCCIPITAL,OCCIPITAL
+22,30 Right Cerebellum Exterior + 21 Cerebellar Vermal Lobules VI-VII + 13 Right LiG   lingual gyrus + 28 Left LiG   lingual gyrus,51 CEREBELLUM + 41 OCCIPITAL,CEREBELLUM
+23,8 Left Cerebellum Exterior + 92 Cerebellar Vermal Lobules VIII-X,100 CEREBELLUM,CEREBELLUM
+24,100 Cerebellar Vermal Lobules VIII-X,100 CEREBELLUM,CEREBELLUM
+25,16 Right Cun   cuneus + 5 Left Cun   cuneus + 34 Right PCu   precuneus + 45 Left PCu   precuneus,21 OCCIPITAL + 79 PARIETAL,PARIETAL
+26,23 Left Cerebellum Exterior + 5 Left Cun   cuneus + 6 Left FuG   fusiform gyrus + 10 Left IOG   inferior occipital gyrus + 11 Left ITG   inferior temporal gyrus + 8 Left MOG   middle occipital gyrus + 11 Left MTG   middle temporal gyrus + 5 Left OCP   occipital pole + 6 Left OFuG  occipital fusiform gyrus + 6 Left SOG   superior occipital gyrus + 5 Left STG   superior temporal gyrus,23 CEREBELLUM + 40 OCCIPITAL + 33 TEMPORAL,OCCIPITAL
+27,89 Left Cerebellum Exterior + 7 Cerebellar Vermal Lobules VIII-X,96 CEREBELLUM,CEREBELLUM
+28,14 Right AnG   angular gyrus + 15 Right MOG   middle occipital gyrus + 7 Right MPrG  precentral gyrus medial segment + 5 Right PCgG  posterior cingulate gyrus + 14 Right PCu   precuneus + 11 Right SOG   superior occipital gyrus + 10 Right SPL   superior parietal lobule,7 FRONTAL + 5 LIMBIC + 26 OCCIPITAL + 38 PARIETAL,PARIETAL
+29,37 Left Cerebellum Exterior + 20 Cerebellar Vermal Lobules I-V + 7 Left FuG   fusiform gyrus + 26 Left LiG   lingual gyrus,57 CEREBELLUM + 26 OCCIPITAL + 7 TEMPORAL,CEREBELLUM
+30,37 Left Cerebellum Exterior + 33 Cerebellar Vermal Lobules I-V + 20 Cerebellar Vermal Lobules VI-VII + 8 Cerebellar Vermal Lobules VIII-X,98 CEREBELLUM,CEREBELLUM
+31,100 Left Thalamus Proper,100 DEEP_WM_GM,DEEP_WM_GM
+32,13 Left AnG   angular gyrus + 10 Left PCu   precuneus + 12 Left PoG   postcentral gyrus + 6 Left PrG   precentral gyrus + 6 Left SFG   superior frontal gyrus + 8 Left SMG   supramarginal gyrus + 14 Left SPL   superior parietal lobule,12 FRONTAL + 57 PARIETAL,PARIETAL
+33,28 Left Pallidum + 61 Left Putamen + 10 Left Thalamus Proper,99 DEEP_WM_GM,DEEP_WM_GM
+34,68 Left Cerebellum Exterior + 23 Left LiG   lingual gyrus,68 CEREBELLUM + 23 OCCIPITAL,CEREBELLUM
+35,20 Left Caudate + 8 Left Cerebellum Exterior + 14 Left Hippocampus + 44 Left Thalamus Proper + 8 Left FuG   fusiform gyrus + 5 Left PHG   parahippocampal gyrus,8 CEREBELLUM + 78 DEEP_WM_GM + 5 LIMBIC + 8 TEMPORAL,DEEP_WM_GM
+36,93 Left Cerebellum Exterior,93 CEREBELLUM,CEREBELLUM
+37,15 Left FuG   fusiform gyrus + 36 Left LiG   lingual gyrus + 45 Left OFuG  occipital fusiform gyrus,81 OCCIPITAL + 15 TEMPORAL,OCCIPITAL
+38,100 Left Cerebellum Exterior,100 CEREBELLUM,CEREBELLUM
+39,100 Left Cerebellum Exterior,100 CEREBELLUM,CEREBELLUM
+40,96 Left Cerebellum Exterior,96 CEREBELLUM,CEREBELLUM
+41,28 Left AIns  anterior insula + 72 Left PIns  posterior insula,100 FRONTAL,FRONTAL
+42,100 Left Cerebellum Exterior,100 CEREBELLUM,CEREBELLUM
+43,100 Left Cerebellum Exterior,100 CEREBELLUM,CEREBELLUM
+44,13 Left MFG   middle frontal gyrus + 6 Left PrG   precentral gyrus + 7 Left SFG   superior frontal gyrus + 6 Left TMP   temporal pole,26 FRONTAL + 6 TEMPORAL,FRONTAL
+45,25 Right Cerebellum White Matter + 25 Left Cerebellum White Matter + 50 temporal lobe WM right,50 CEREBELLUM + 50 TEMPORAL,CEREBELLUM
+46,5 occipital lobe WM right + 27 parietal lobe WM right + 64 temporal lobe WM right,5 OCCIPITAL + 27 PARIETAL + 64 TEMPORAL,TEMPORAL
+47,86 frontal lobe WM right + 7 parietal lobe WM right,86 FRONTAL + 7 PARIETAL,FRONTAL
+48,100 temporal lobe WM right,100 TEMPORAL,TEMPORAL
+49,43 frontal lobe WM right + 52 parietal lobe WM right,43 FRONTAL + 52 PARIETAL,PARIETAL
+50,100 temporal lobe WM right,100 TEMPORAL,TEMPORAL
+51,27 occipital lobe WM right + 73 temporal lobe WM right,27 OCCIPITAL + 73 TEMPORAL,TEMPORAL
+52,16 frontal lobe WM right + 84 parietal lobe WM right,16 FRONTAL + 84 PARIETAL,PARIETAL
+53,10 occipital lobe WM right + 90 temporal lobe WM right,10 OCCIPITAL + 90 TEMPORAL,TEMPORAL
+54,80 frontal lobe WM right + 18 posterior limb of internal capsule inc. cerebral peduncle right,18 DEEP_WM_GM + 80 FRONTAL,FRONTAL
+55,76 parietal lobe WM right + 8 temporal lobe WM right + 13 anterior limb of internal capsule right,13 DEEP_WM_GM + 76 PARIETAL + 8 TEMPORAL,PARIETAL
+56,100 frontal lobe WM right,100 FRONTAL,FRONTAL
+57,100 frontal lobe WM right,100 FRONTAL,FRONTAL
+58,63 occipital lobe WM right + 37 temporal lobe WM right,63 OCCIPITAL + 37 TEMPORAL,OCCIPITAL
+59,100 frontal lobe WM right,100 FRONTAL,FRONTAL
+60,100 frontal lobe WM right,100 FRONTAL,FRONTAL
+61,59 frontal lobe WM right + 7 parietal lobe WM right + 25 corpus callosum,59 FRONTAL + 25 NONE + 7 PARIETAL,FRONTAL
+62,98 parietal lobe WM right,98 PARIETAL,PARIETAL
+63,96 parietal lobe WM right,96 PARIETAL,PARIETAL
+64,89 frontal lobe WM right + 11 corpus callosum,89 FRONTAL + 11 NONE,FRONTAL
+65,100 Right Cerebellum White Matter,100 CEREBELLUM,CEREBELLUM
+66,32 occipital lobe WM right + 34 parietal lobe WM right + 34 temporal lobe WM right,32 OCCIPITAL + 34 PARIETAL + 34 TEMPORAL,PARIETAL
+67,7 Brain Stem + 93 Right Cerebellum White Matter,93 CEREBELLUM + 7 NONE,CEREBELLUM
+68,35 frontal lobe WM right + 59 parietal lobe WM right + 6 temporal lobe WM right,35 FRONTAL + 59 PARIETAL + 6 TEMPORAL,PARIETAL
+69,100 Brain Stem,100 NONE,NONE
+70,14 Brain Stem + 86 Right Ventral DC,100 NONE,NONE
+71,64 Brain Stem + 30 Right Ventral DC + 7 Left Ventral DC,101 NONE,NONE
+72,36 Brain Stem + 22 Right Cerebellum White Matter + 27 Left Cerebellum White Matter + 7 Right Ventral DC + 8 Left Ventral DC,49 CEREBELLUM + 51 NONE,NONE
+73,55 Brain Stem + 16 Right Ventral DC + 28 Left Ventral DC,99 NONE,NONE
+74,45 frontal lobe WM left + 53 parietal lobe WM left,45 FRONTAL + 53 PARIETAL,PARIETAL
+75,100 frontal lobe WM left,100 FRONTAL,FRONTAL
+76,97 frontal lobe WM left,97 FRONTAL,FRONTAL
+77,95 frontal lobe WM left,95 FRONTAL,FRONTAL
+78,30 frontal lobe WM left + 27 parietal lobe WM left + 42 corpus callosum,30 FRONTAL + 42 NONE + 27 PARIETAL,NONE
+79,63 occipital lobe WM left + 17 parietal lobe WM left + 21 temporal lobe WM left,63 OCCIPITAL + 17 PARIETAL + 21 TEMPORAL,OCCIPITAL
+80,99 frontal lobe WM left,99 FRONTAL,FRONTAL
+81,21 frontal lobe WM left + 50 parietal lobe WM left + 25 corpus callosum,21 FRONTAL + 25 NONE + 50 PARIETAL,PARIETAL
+82,87 frontal lobe WM left + 8 posterior limb of internal capsule inc. cerebral peduncle left,8 DEEP_WM_GM + 87 FRONTAL,FRONTAL
+83,74 frontal lobe WM left + 7 parietal lobe WM left + 19 corpus callosum,74 FRONTAL + 19 NONE + 7 PARIETAL,FRONTAL
+84,98 parietal lobe WM left,98 PARIETAL,PARIETAL
+85,81 parietal lobe WM left + 19 temporal lobe WM left,81 PARIETAL + 19 TEMPORAL,PARIETAL
+86,90 frontal lobe WM left + 10 parietal lobe WM left,90 FRONTAL + 10 PARIETAL,FRONTAL
+87,19 frontal lobe WM left + 80 parietal lobe WM left,19 FRONTAL + 80 PARIETAL,PARIETAL
+88,45 parietal lobe WM left + 55 temporal lobe WM left,45 PARIETAL + 55 TEMPORAL,TEMPORAL
+89,100 frontal lobe WM left,100 FRONTAL,FRONTAL
+90,70 frontal lobe WM left + 30 parietal lobe WM left,70 FRONTAL + 30 PARIETAL,FRONTAL
+91,77 parietal lobe WM left + 19 corpus callosum,19 NONE + 77 PARIETAL,PARIETAL
+92,100 temporal lobe WM left,100 TEMPORAL,TEMPORAL
+93,60 occipital lobe WM left + 40 temporal lobe WM left,60 OCCIPITAL + 40 TEMPORAL,OCCIPITAL
+94,46 frontal lobe WM left + 13 parietal lobe WM left + 6 temporal lobe WM left + 20 anterior limb of internal capsule left + 14 posterior limb of internal capsule inc. cerebral peduncle left,34 DEEP_WM_GM + 46 FRONTAL + 13 PARIETAL + 6 TEMPORAL,FRONTAL
+95,35 parietal lobe WM left + 65 temporal lobe WM left,35 PARIETAL + 65 TEMPORAL,TEMPORAL
+96,97 temporal lobe WM left,97 TEMPORAL,TEMPORAL
+97,100 frontal lobe WM left,100 FRONTAL,FRONTAL
+98,25 occipital lobe WM left + 75 temporal lobe WM left,25 OCCIPITAL + 75 TEMPORAL,TEMPORAL
+99,13 parietal lobe WM left + 85 temporal lobe WM left,13 PARIETAL + 85 TEMPORAL,TEMPORAL
+100,74 frontal lobe WM left + 17 parietal lobe WM left,74 FRONTAL + 17 PARIETAL,FRONTAL
