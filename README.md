@@ -2,8 +2,7 @@
 
 ```diff
 @@ IMPORTANT UPDATE @@
-! We are currently working on addressing the comments received from the reviewers. 
-! We will release the updated scripts and results shortly!
+Please cite our GitHub: https://doi.org/10.5281/zenodo.14549178
 ```
 
 This repository includes the **Genetically Informed brAiN Ttlas (GIANT)** with its implementation, and all imaging-genetics subsequent analysis summary statistics for the GIANT. 
